@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/wooden_hoe"
+        },
+        "cases": [
+            {
+                "when": "redstone_cubes",
+                "model": {
+                    "type": "model",
+                    "model": "block/redstone_cubes"
+                }
+            }
+        ]
+    }
+}

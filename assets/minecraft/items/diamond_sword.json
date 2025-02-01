@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/diamond_sword"
+        },
+        "cases": [
+            {
+                "when": "redstone_cubes",
+                "model": {
+                    "type": "model",
+                    "model": "custom/item/obsidian_sword"
+                }
+            }
+        ]
+    }
+}

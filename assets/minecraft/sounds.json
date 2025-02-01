@@ -1,0 +1,10 @@
+{
+    "honor": {
+        "sounds": [
+            {
+                "stream": true,
+                "name": "honor"
+            }
+        ]
+    }
+}

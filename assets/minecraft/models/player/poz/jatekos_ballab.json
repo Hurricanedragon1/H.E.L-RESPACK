@@ -1,0 +1,45 @@
+{
+	"__comment": "Designed by Csabusa with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"0": "#skin"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 8, -12, 6 ],
+			"to": [ 12, 0, 10 ],
+			"faces": {
+				"down": { "uv": [ 6, 13, 7, 12 ], "texture": "#0" },
+				"up": { "uv": [ 5, 12, 6, 13 ], "texture": "#0" },
+				"north": { "uv": [ 7, 13, 8, 16 ], "texture": "#0" },
+				"south": { "uv": [ 5, 13, 6, 16 ], "texture": "#0" },
+				"west": { "uv": [ 4, 13, 5, 16 ], "texture": "#0" },
+				"east": { "uv": [ 6, 13, 7, 16 ], "texture": "#0" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 7.75, -12.25, 5.75 ],
+			"to": [ 12.25, 0.25, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 2, 13, 3, 12 ], "texture": "#0" },
+				"up": { "uv": [ 1, 12, 2, 13 ], "texture": "#0" },
+				"north": { "uv": [ 3, 13, 4, 16 ], "texture": "#0" },
+				"south": { "uv": [ 1, 13, 2, 16 ], "texture": "#0" },
+				"west": { "uv": [ 0, 13, 1, 16 ], "texture": "#0" },
+				"east": { "uv": [ 2, 13, 3, 16 ], "texture": "#0" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation":  [ 90, 180, 0 ],
+			"translation":  [ -4.869, -2.086, 20.173 ]
+		},
+		"head": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, -11, 0 ],
+			"scale":  [ 1.6, 1.6, 1.6 ]
+		}
+	}
+}

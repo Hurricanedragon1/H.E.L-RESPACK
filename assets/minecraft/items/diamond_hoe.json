@@ -1,0 +1,115 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/diamond_hoe"
+        },
+        "cases": [
+            {
+                "when": "keszito",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/keszito"
+                }
+            },
+            {
+                "when": "halasz",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/halasz"
+                }
+            },
+            {
+                "when": "farmer",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/farmer"
+                }
+            },
+            {
+                "when": "farmer2",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/farmer2"
+                }
+            },
+            {
+                "when": "hentes",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/hentes"
+                }
+            },
+            {
+                "when": "konyvtaras",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/konyvtaras"
+                }
+            },
+            {
+                "when": "favago",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/lumberjack"
+                }
+            },
+            {
+                "when": "komuves",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/komuves"
+                }
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            ,
+            {
+                "when": "T60",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/easter_eggs/t60"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "player/poz/test",
+    "textures": {
+        "skin": "skins/bruh"
+    }
+}

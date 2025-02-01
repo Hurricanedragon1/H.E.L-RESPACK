@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/stone_hoe"
+        },
+        "cases": [
+            {
+                "when": "gyerek",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/gyerek_all"
+                }
+            },
+            {
+                "when": "no1",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no"
+                }
+            },
+            {
+                "when": "no2",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no2"
+                }
+            },
+            {
+                "when": "no3",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no3"
+                }
+            },
+            {
+                "when": "no4",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no4"
+                }
+            },
+            {
+                "when": "no5",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no5"
+                }
+            }
+        ]
+    }
+}

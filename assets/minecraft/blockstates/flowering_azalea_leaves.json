@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/flowering_azalea_leaves" , "weight": 90
+            },
+            {
+                "model": "custom/var/azalea/azalea0" , "weight": 50
+            },
+            {
+                "model": "custom/var/azalea/azalea1" , "weight": 50
+            },
+            {
+                "model": "custom/var/azalea/azalea2" , "weight": 50
+            },
+            {
+                "model": "custom/var/azalea/azalea3" , "weight": 50
+            }
+        ]
+    }
+}
