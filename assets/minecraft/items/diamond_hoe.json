@@ -15,6 +15,13 @@
                 }
             },
             {
+                "when": "keszito2",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/keszito2"
+                }
+            },
+            {
                 "when": "halasz",
                 "model": {
                     "type": "model",
@@ -61,53 +68,6 @@
                 "model": {
                     "type": "model",
                     "model": "custom/karakterek/komuves"
-                }
-            }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            ,
-            {
-                "when": "T60",
-                "model": {
-                    "type": "model",
-                    "model": "custom/karakterek/easter_eggs/t60"
                 }
             }
         ]

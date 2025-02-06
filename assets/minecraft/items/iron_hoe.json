@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_hoe"
+        },
+        "cases": [
+            {
+                "when": "T60",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/easter_eggs/t60"
+                }
+            }
+        ]
+    }
+}
