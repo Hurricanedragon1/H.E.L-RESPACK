@@ -69,6 +69,13 @@
                     "type": "model",
                     "model": "custom/karakterek/no8"
                 }
+            },
+            {
+                "when": "no9",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no9"
+                }
             }
         ]
     }
