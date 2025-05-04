@@ -1,1 +1,2 @@
 ./give @a diamond_hoe[minecraft:custom_model_data={strings:[""]}]
+https://util.gflash.eu/mcskinconverter/ SKINEKHEZ

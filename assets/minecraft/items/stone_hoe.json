@@ -76,6 +76,27 @@
                     "type": "model",
                     "model": "custom/karakterek/no9"
                 }
+            },
+            {
+                "when": "no10",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no10"
+                }
+            },
+            {
+                "when": "no11",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no11"
+                }
+            },
+            {
+                "when": "no12",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/no12"
+                }
             }
         ]
     }

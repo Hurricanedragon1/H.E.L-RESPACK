@@ -69,6 +69,62 @@
                     "type": "model",
                     "model": "custom/karakterek/komuves"
                 }
+            },
+            {
+                "when": "kereskedo1",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/kereskedo1"
+                }
+            },
+            {
+                "when": "kereskedo2",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/kereskedo2"
+                }
+            },
+            {
+                "when": "kereskedo3",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/kereskedo3"
+                }
+            },
+            {
+                "when": "ferfi1",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/ferfi1"
+                }
+            },
+            {
+                "when": "ferfi2",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/ferfi2"
+                }
+            },
+            {
+                "when": "ferfi3",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/ferfi3"
+                }
+            },
+            {
+                "when": "ferfi4",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/ferfi4"
+                }
+            },
+            {
+                "when": "pap",
+                "model": {
+                    "type": "model",
+                    "model": "custom/karakterek/pap"
+                }
             }
         ]
     }
