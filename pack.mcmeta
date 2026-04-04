@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "description": "§8A pályához készült",
-	    "pack_format": 64
-    }
+  "pack": {
+    "pack_format": 94,
+    "description": "§8A pályához készült"
+  }
 }
