@@ -1,7 +1,9 @@
 {
   "pack": {
-    "min_format": 84,
-    "max_format": 84,
+    "pack_format": 15,
+    "supported_formats": [15, 255],
+    "min_format": 15,
+    "max_format": 255,
     "description": "§8A pályához készült"
   }
 }
